@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+/* .text-input-field{
+   max-width: 200px;
+}
+
+.number-input-field{
+   max-width: 60px;
+} */
+
+.error-field{
+   border: 1px solid red !important;
+}
+
+.errorMessage{
+   color: red;
+   font-size: 16px;
+}
